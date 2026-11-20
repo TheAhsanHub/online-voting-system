@@ -1,9 +1,0 @@
-Name: JACK, Email: jack2025@jmail.com, Age: 22, Gender: Male
-Name: Maria, Email: maria80@gmail.com, Age: 29, Gender: Female
-Name: Maria, Email: maria80@gmail.com, Age: 20, Gender: Female
-Name: Robert Jennkings, Email: robert20@gmail.com, Age: 60, Gender: Male
-Name: ahsanahmed, Email: ahmed2k18@gmail.com, Age: 20, Gender: Male
-Name: Smith, Email: asmith2025@gmail.com, Age: 20, Gender: Male
-Name: Jamil Ahmed, Email: jamilkhan23@gmail.com, Age: 50, Gender: Male
-Name: AHSAN, Email: ahsan12@gmail.com, Age: 20, Gender: Male
-Name: ahmed, Email: jahmed2k18@gmail.com, Age: 20, Gender: Male
